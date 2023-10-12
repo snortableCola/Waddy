@@ -1730,22 +1730,22 @@
 // entity 20
 {
 "classname" "item_health"
-"origin" "496 -144 512"
+"origin" "480 -144 512"
 }
 // entity 21
 {
 "classname" "item_health"
-"origin" "496 -16 512"
+"origin" "480 -16 512"
 }
 // entity 22
 {
 "classname" "item_health"
-"origin" "-528 112 512"
+"origin" "-512 112 512"
 }
 // entity 23
 {
 "classname" "item_health"
-"origin" "-528 -16 512"
+"origin" "-512 -16 512"
 }
 // entity 24
 {
