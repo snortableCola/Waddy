@@ -1,0 +1,52 @@
+Renderer info: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 version 4.6.0 NVIDIA 545.84 from NVIDIA Corporation
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path D:\quake-leveldesign-starterkit-1.17.0\quakedev\trenchbroom\defaults\assets
+Adding file system path D:\quake-leveldesign-starterkit-1.17.0\quakedev\trenchbroom\defaults\assets
+Adding file system path D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection 'D:\quake-leveldesign-starterkit-1.17.0\quakedev\wads\prototype_1_3.wad' in 27ms
+Loaded texture collection 'D:\quake-leveldesign-starterkit-1.17.0\quakedev\wads\xatrix.wad' in 47ms
+Loaded D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 123ms
+Snapped vertices of 1 brush
+Created autosave backup at D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\autosave\WADDY.30.map
+Created autosave backup at D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\autosave\WADDY.31.map
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 9ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 11ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 11ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 13ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 13ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 9ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 9ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 12ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 13ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 11ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 9ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
+Created autosave backup at D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\autosave\WADDY.32.map
+Created autosave backup at D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\autosave\WADDY.33.map
+Saved D:\quake-leveldesign-starterkit-1.17.0\quakedev\quakespasm\id1\maps\WaddyGit\Waddy\WADDY.map in 10ms
